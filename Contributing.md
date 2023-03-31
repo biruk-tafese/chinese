@@ -1,7 +1,7 @@
 # Contributor guide
 
 ## 翻译步骤
-
+##check 
 1. 从[待翻译列表][1]选择一篇文章
 
 2. 在点开的页面，点击 **MarkDown 文件链接**
